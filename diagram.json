@@ -5,6 +5,9 @@
   "parts": [
     { "type": "board-st-nucleo-c031c6", "id": "nucleo", "top": 0, "left": 0, "attrs": {} }
   ],
-  "connections": [],
+  "connections": [
+    [ "$serialMonitor:TX", "nucleo:PA3", "", [] ],
+    [ "$serialMonitor:RX", "nucleo:PA2", "", [] ]
+  ],
   "dependencies": {}
 }
