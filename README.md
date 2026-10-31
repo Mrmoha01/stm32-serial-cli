@@ -1,6 +1,6 @@
 # STM32 Serial CLI
 
-![CI](https://github.com/YOUR_USERNAME/stm32-serial-cli/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Mrmoha01/stm32-serial-cli/actions/workflows/ci.yml/badge.svg)
 
 A small command-line interface for a microcontroller's serial port, written in C
 for the **STM32C031C6** (Cortex-M0+). Type commands such as `led on`, `temp` or `help`
