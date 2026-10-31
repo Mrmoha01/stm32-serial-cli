@@ -91,6 +91,10 @@ stm32-serial-cli/
 │   ├── app.c/.h             connects the UART receive path to the CLI
 │   ├── hal.h                the interface each platform must implement
 │   └── temp_sim.c/.h        simulated temperature source
+|
+├── docs/
+|   ├── demo.png
+|
 ├── platform/
 │   ├── stm32c0/             STM32C031C6 (Nucleo-C031C6 and the Wokwi simulator)
 │   │   ├── hal_stm32c0.c    GPIO, USART2, SysTick and interrupt handlers
