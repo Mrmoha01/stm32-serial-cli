@@ -11,7 +11,7 @@ script are all in this repository. The command-line logic itself is **hardware-i
 so it is unit-tested on a PC and also runs there in a normal terminal.
 
 ## Demo
-
+   ![Demo](docs/demo.png)
 A real session, from the PC build (`make run`):
 
 ```text
