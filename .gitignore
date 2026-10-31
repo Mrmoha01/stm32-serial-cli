@@ -1,0 +1,8 @@
+# Build output
+build/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+*.swp
